@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20",
+    "name": "vnxnx",
+    "description": "adadad",
+    "image": "../images/baby-shoes.png",
+    "price": 40,
+    "rating": 4,
+    "size": "S"
+  },
+  {
+    "id": "21",
+    "name": "xnxn",
+    "description": "cvnfcnc",
+    "image": "../images/beanie.png",
+    "price": 20,
+    "rating": 4,
+    "size": "M"
+  },
+  {
+    "id": "22",
+    "name": "xgngxgn",
+    "description": "Dafafafa",
+    "image": "../images/coat_3823173.png",
+    "price": 15,
+    "rating": 4,
+    "size": "S"
+  },
+  {
+    "id": "23",
+    "name": "fgnfng",
+    "description": "ddddddddddddd",
+    "image": "../images/dress-7425945.png",
+    "price": 105,
+    "rating": 4,
+    "size": "L"
+  },
+  {
+    "id": "24",
+    "name": "fgnfgn",
+    "description": "",
+    "image": "../images/dress_1.png",
+    "price": 50,
+    "rating": 4,
+    "size": "M"
+  },
+  {
+    "id": "25",
+    "name": "fgngfnf",
+    "description": "asdsaaaads",
+    "image": "../images/footwear-7603499.png",
+    "price": 40,
+    "rating": 4,
+    "size": "S"
+  },
+  {
+    "id": "26",
+    "name": "fgnfgnfgg",
+    "description": "ccccccccccc",
+    "image": "../images/graduation-7186698.png",
+    "price": 60,
+    "rating": 4,
+    "size": "L"
+  },
+  {
+    "id": "27",
+    "name": "nvnnf",
+    "type": "05",
+    "description": "dddddddddddddddd",
+    "image": "../images/hat-6347608.png",
+    "price": 60,
+    "rating": 4
+  }
+]
